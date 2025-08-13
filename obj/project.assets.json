@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\Bradesco\\webapp\\webapp01\\webapp01.csproj",
+      "projectUniqueName": "C:\\projetos\\Bradesco\\webapp\\webappcicd\\webapp01.csproj",
       "projectName": "webapp01",
-      "projectPath": "C:\\projetos\\Bradesco\\webapp\\webapp01\\webapp01.csproj",
+      "projectPath": "C:\\projetos\\Bradesco\\webapp\\webappcicd\\webapp01.csproj",
       "packagesPath": "C:\\Users\\wdossantos.SOUTHAMERICA\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\Bradesco\\webapp\\webapp01\\obj\\",
+      "outputPath": "C:\\projetos\\Bradesco\\webapp\\webappcicd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -77,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

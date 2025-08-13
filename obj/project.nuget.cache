@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+VAdrQn8HM=",
+  "dgSpecHash": "LfQ2qIY6J9g=",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Bradesco\\webapp\\webapp01\\webapp01.csproj",
+  "projectFilePath": "C:\\projetos\\Bradesco\\webapp\\webappcicd\\webapp01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
