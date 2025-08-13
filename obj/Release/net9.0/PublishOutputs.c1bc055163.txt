@@ -1,0 +1,7 @@
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\webapp01.exe
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\appsettings.Development.json
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\appsettings.json
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\webapp01.dll
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\webapp01.deps.json
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\webapp01.runtimeconfig.json
+C:\projetos\Bradesco\webapp\webapp01\bin\Release\net9.0\publish\webapp01.pdb
